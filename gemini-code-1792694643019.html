@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>المنصة الوطنية الفورية لإعمار اليمن | YRUM Framework</title>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, sans-serif; background: #eef2f5; margin: 0; padding: 20px; color: #2c3e50; }
+    .container { max-width: 1000px; margin: auto; background: #fff; padding: 25px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); }
+    .header-box { border-bottom: 3px solid #16a085; padding-bottom: 15px; margin-bottom: 20px; }
+    .header-box h1 { margin: 0; font-size: 22px; color: #16a085; }
+    .header-box p { margin: 5px 0 0 0; font-size: 13px; color: #7f8c8d; }
+    .lead-badge { background: #2c3e50; color: #ecf0f1; padding: 5px 10px; border-radius: 4px; font-size: 12px; display: inline-block; margin-top: 8px; }
+    .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+    @media (max-width: 700px) { .form-grid { grid-template-columns: 1fr; } }
+    .form-group { margin-bottom: 12px; }
+    label { display: block; font-weight: 600; font-size: 13px; margin-bottom: 4px; }
+    input, select, textarea { width: 100%; padding: 8px 10px; border: 1px solid #bdc3c7; border-radius: 4px; box-sizing: border-box; font-size: 13px; }
+    .btn { background: #16a085; color: white; border: none; padding: 10px 15px; border-radius: 4px; font-weight: bold; cursor: pointer; width: 100%; font-size: 14px; margin-top: 10px; }
+    .btn-wa { background: #27ae60; margin-top: 8px; }
+    .receipt { display: none; margin-top: 20px; padding: 15px; background: #e8f8f5; border: 1px solid #a3e4d7; border-radius: 4px; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header-box">
+    <h1>المنصة الوطنية لإدارة وتخطيط مشاريع الإعمار - الإيداع الفوري</h1>
+    <p>برعاية وزارة التعليم العالي والبحث العلمي وبالشراكة مع هيئة الأراضي والتخطيط العمراني</p>
+    <div class="lead-badge">المؤسس والمعماري الرئيسي: المهندس أوسان عادل عبدالباري أحمد سلطان (هاتف: 00967777852433)</div>
+  </div>
+
+  <form id="instantForm" onsubmit="processInstantSubmit(event)">
+    <div class="form-grid">
+      <div class="form-group">
+        <label>المحافظة:</label>
+        <select id="gov" required>
+          <option value="صنعاء">صنعاء وأمانة العاصمة</option>
+          <option value="عدن">عدن</option>
+          <option value="تعز">تعز</option>
+          <option value="حضرموت">حضرموت</option>
+          <option value="الحديدة">الحديدة</option>
+          <option value="إب">إب</option>
+          <option value="مأرب">مأرب</option>
+          <option value="ذمار">ذمار</option>
+          <option value="شبوة">شبوة</option>
+          <option value="المهرة">المهرة</option>
+          <option value="صعدة">صعدة</option>
+          <option value="لحج">لحج</option>
+          <option value="أبين">أبين</option>
+          <option value="الضالع">الضالع</option>
+          <option value="عمران">عمران</option>
+          <option value="حجة">حجة</option>
+          <option value="البيضاء">البيضاء</option>
+          <option value="المحويت">المحويت</option>
+          <option value="ريمة">ريمة</option>
+          <option value="الجوف">الجوف</option>
+          <option value="سقطرى">أرخبيل سقطرى</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>كود المربع التخطيطي:</label>
+        <input type="text" id="grid_code" placeholder="مثال: TZ-GRID-02-B" required>
+      </div>
+
+      <div class="form-group">
+        <label>الجامعة والكلية:</label>
+        <input type="text" id="uni" placeholder="اسم الجامعة - كلية الهندسة" required>
+      </div>
+
+      <div class="form-group">
+        <label>عنوان المشروع ونوعه:</label>
+        <input type="text" id="title" placeholder="أبراج سكنية / جسور وأنفاق / محطة مياه" required>
+      </div>
+
+      <div class="form-group">
+        <label>أسماء الفريق الهندسي:</label>
+        <input type="text" id="students" placeholder="م. فلان، م. فلان..." required>
+      </div>
+
+      <div class="form-group">
+        <label>الدكتور المشرف ورئيس القسم:</label>
+        <input type="text" id="supervisor" placeholder="د. المشرف / رئيس القسم" required>
+      </div>
+
+      <div class="form-group">
+        <label>رابط الملفات السحابي (Google Drive / GitHub):</label>
+        <input type="url" id="link" placeholder="https://..." required>
+      </div>
+
+      <div class="form-group">
+        <label>رقم هاتف المنسق للتوثيق والتحقق:</label>
+        <input type="tel" id="phone" placeholder="9677XXXXXXXX" required>
+      </div>
+    </div>
+
+    <button type="submit" class="btn">اعتماد وتوثيق المشروع فورياً</button>
+  </form>
+
+  <div id="receiptBox" class="receipt">
+    <h3 style="margin-top:0; color:#16a085;">تم استلام وتوثيق المشروع بنجاح في السجل الوطني</h3>
+    <p id="receiptDetails" style="font-size:13px; line-height:1.7;"></p>
+    <button type="button" class="btn btn-wa" onclick="forwardViaWhatsApp()">إرسال إشعار عبر WhatsApp</button>
+  </div>
+</div>
+
+<script>
+  let lastSubmission = {};
+
+  function processInstantSubmit(e) {
+    e.preventDefault();
+    const refCode = 'YRUM-' + Math.floor(100000 + Math.random() * 900000);
+    lastSubmission = {
+      ref: refCode,
+      gov: document.getElementById('gov').value,
+      grid: document.getElementById('grid_code').value,
+      title: document.getElementById('title').value,
+      uni: document.getElementById('uni').value,
+      team: document.getElementById('students').value,
+      sup: document.getElementById('supervisor').value,
+      link: document.getElementById('link').value,
+      phone: document.getElementById('phone').value
+    };
+
+    document.getElementById('receiptDetails').innerHTML = `
+      <strong>الرقم المرجعي:</strong> ${lastSubmission.ref}<br>
+      <strong>الموقع والمربع:</strong> ${lastSubmission.gov} | ${lastSubmission.grid}<br>
+      <strong>المشروع:</strong> ${lastSubmission.title}<br>
+      <strong>الجهة:</strong> ${lastSubmission.uni} (المشرف: ${lastSubmission.sup})<br>
+      <strong>الفريق:</strong> ${lastSubmission.team}
+    `;
+    document.getElementById('receiptBox').style.display = 'block';
+  }
+
+  function forwardViaWhatsApp() {
+    const text = encodeURIComponent(
+      `*توثيق فوري - مشروع إعمار اليمن*\n` +
+      `*المرجع:* ${lastSubmission.ref}\n` +
+      `*المحافظة والمربع:* ${lastSubmission.gov} - ${lastSubmission.grid}\n` +
+      `*المشروع:* ${lastSubmission.title}\n` +
+      `*الجامعة:* ${lastSubmission.uni}\n` +
+      `*المشرف:* ${lastSubmission.sup}\n` +
+      `*الفريق:* ${lastSubmission.team}\n` +
+      `*الرابط:* ${lastSubmission.link}`
+    );
+    window.open(`https://wa.me/967777852433?text=${text}`, '_blank');
+  }
+</script>
+
+</body>
+</html>
