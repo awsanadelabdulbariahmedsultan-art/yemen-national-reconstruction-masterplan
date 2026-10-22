@@ -271,6 +271,11 @@ yemen-national-reconstruction-masterplan/
 
 هذا الملف يحتوي على **110 برومبت تخصصي عالي الدقة** مصممة لتوليد صور معمارية وهندسية جوية وبدقة 8K عبر أنظمة الذكاء الاصطناعي (Midjourney v6, Unreal Engine 5, DALL-E 3, Stable Diffusion XL)، مع مراعاة المعايير الهندسية (Eurocode)، والمخططات التوضيحية (Technical Blueprint Overlays)، والدمج بين الحداثة والهوية المعمارية اليمنية والبيئية.
 
+---# دليل البرومبتات الهندسية والمعمارية لمشاريع التنمية وإعادة الإعمار في اليمن
+### Yemen Mega-Projects Architectural & Civil Engineering Prompts Compendium
+
+هذا الملف يحتوي على **110 برومبت تخصصي عالي الدقة** مصممة لتوليد صور معمارية وهندسية جوية وبدقة 8K عبر أنظمة الذكاء الاصطناعي (Midjourney v6, Unreal Engine 5, DALL-E 3, Stable Diffusion XL)، مع مراعاة المعايير الهندسية (Eurocode)، والمخططات التوضيحية (Technical Blueprint Overlays)، والدمج بين الحداثة والهوية المعمارية اليمنية والبيئية.
+
 ---
 
 ## 1. محافظة صنعاء والأمانة (YE-SN)
@@ -643,6 +648,289 @@ yemen-national-reconstruction-masterplan/
 
 62. **AB-GRID-01:**
     ```text
-    Aerial masterplan of modernized flood diversion barrages across Wadi Abyan, automated hydro-gates channeling seasonal flash floods into recharge basins and agricultural canals, blueprint markings, 8k --a
+    Aerial masterplan of modernized flood diversion barrages across Wadi Abyan, automated hydro-gates channeling seasonal flash floods into recharge basins and agricultural canals, blueprint markings, 8k --ar 16:9
+    ```
 
-**اعتماد وإشراف:** المهندس أوسان عادل عبدالباري أحمد سلطان — رئيس ومؤسس المنظومة المعمارية الوطنية.
+63. **AB-GRID-04:**
+    ```text
+    Bird's-eye perspective of an agro-industrial processing center in Zinjibar, automated fruit canning and cotton ginning factories, solar roofs, organized heavy-vehicle loading bays, photorealistic --ar 16:9
+    ```
+
+64. **AB-GRID-07:**
+    ```text
+    Helicopter aerial view of a modern marine fish landing and processing harbor in Shuqrah, breakwater arms, fish auction hall with sweeping aerodynamic wave-shaped roof, small fishing boat docks, 8k --ar 16:9
+    ```
+
+65. **AB-GRID-09:**
+    ```text
+    Wide aerial visualization of a pristine coastal corniche development along the Gulf of Aden in Abyan, pedestrian boardwalks, public parks, low-rise boutique resorts, sunset reflections, 8k --ar 16:9
+    ```
+
+66. **AB-GRID-11:**
+    ```text
+    Drone aerial perspective of an extensive coastal sand-dune stabilization and reforestation green belt, engineered windbreak tree lines protecting inland agriculture and expressways, 8k --ar 16:9
+    ```
+
+---
+
+## 14. محافظة الضالع (YE-DA)
+*النطاق: شق محاور وطرق جبلية حرة، منشآت حصاد مياه وتغذية للمياه الجوفية، مراكز ومشافي جراحية مركزية، وتخطيط مراكز المدن والأسواق الحرفية.*
+
+67. **DA-GRID-01:**
+    ```text
+    High-altitude civil engineering aerial view of a dramatic mountain pass highway in Ad-Dali', sweeping concrete viaducts hugging sheer vertical rock faces, protective rockfall sheds, blueprint isolines, 8k --ar 16:9
+    ```
+
+68. **DA-GRID-03:**
+    ```text
+    Helicopter aerial masterplan of a cascade of rainwater harvesting micro-dams built across mountain canyons, check dams, ground-aquifer recharge wells, photorealistic, crisp morning light --ar 16:9
+    ```
+
+69. **DA-GRID-05:**
+    ```text
+    Bird's-eye view of a central regional surgical hospital and emergency medical center, terraced modular clinical wings, rooftop helipad, stone facades blending into the hillside, 8k --ar 16:9
+    ```
+
+70. **DA-GRID-07:**
+    ```text
+    Aerial architectural visualization of a modernized central crafts market and commercial town center, vaulted stone arcades, covered pedestrian streets with skylights, vibrant public life, 8k --ar 16:9
+    ```
+
+71. **DA-GRID-09:**
+    ```text
+    Drone view of an agricultural terraced coffee and fruit cultivation cooperative, modern micro-sprinkler irrigation systems, solar pumping stations perched on high ridges, 8k --ar 16:9
+    ```
+
+---
+
+## 15. محافظة عمران (YE-AM)
+*النطاق: مصانع مواد بناء صديقة للبيئة (إسمنت وحجر)، مشاريع حماية وتغذية حوض صنعاء-عمران المائي، ومجمعات أسواق ومخازن مركزية للمحاصيل الحقلية.*
+
+72. **AM-GRID-01:**
+    ```text
+    Aerial masterplan of a state-of-the-art eco-cement manufacturing plant in 'Amran, high-efficiency closed-loop kilns, carbon capture infrastructure, massive green buffer plantations, blueprint technical frame, 8k --ar 16:9
+    ```
+
+73. **AM-GRID-06:**
+    ```text
+    Helicopter bird's-eye perspective of an organized building-stone and marble industrial park, precision laser cutting sheds, recycling water basins, organized storage yards, photorealistic --ar 16:9
+    ```
+
+74. **AM-GRID-11:**
+    ```text
+    Civil engineering aerial view of artificial aquifer recharge infiltration basins in the Sana'a-'Amran water basin, expansive settling lakes replenishing groundwater, surrounded by agricultural farms, 8k --ar 16:9
+    ```
+
+75. **AM-GRID-15:**
+    ```text
+    Wide aerial masterplan of a wholesale agricultural produce distribution center, massive covered trading halls, refrigerated warehousing logistics, large truck loading docks, morning light --ar 16:9
+    ```
+
+76. **AM-GRID-20:**
+    ```text
+    Drone aerial visualization of a high-speed intercity railway corridor crossing 'Amran's wide plains, ballastless tracks, sleek modern high-speed train passing, surrounding mountains, 8k --ar 16:9
+    ```
+
+---
+
+## 16. محافظة حجة (YE-HJ)
+*النطاق: موانئ صيد وتصدير بحرية في ميدي والساحل، شبكات طرق لربط القرى الجبلية الشاهقة، وسدود مائية لتغذية الأودية المنحدرة نحو تهامة.*
+
+77. **HJ-GRID-01:**
+    ```text
+    High-altitude aerial masterplan of Midi coastal commercial and fishing port on the Red Sea, modern dredged navigation channel, cargo piers, breakwaters, technical blueprint graphics, 8k --ar 16:9
+    ```
+
+78. **HJ-GRID-08:**
+    ```text
+    Helicopter aerial view of an extreme mountain road engineering project in Hajjah, switchback bridges and tunnel portals scaling 2000m peaks, connecting isolated mountaintop villages, morning mist, 8k --ar 16:9
+    ```
+
+79. **HJ-GRID-16:**
+    ```text
+    Civil engineering bird's-eye perspective of a major hydro-dam at the confluence of mountain valleys draining into Tihama, arched concrete dam wall, spillway canyon, hydro-turbine power house, 8k --ar 16:9
+    ```
+
+80. **HJ-GRID-24:**
+    ```text
+    Aerial visualization of a terraced mountain coffee plantation agro-tourism center, historic stone tower architecture combined with modern glass observation decks, lush green vistas, 8k --ar 16:9
+    ```
+
+81. **HJ-GRID-31:**
+    ```text
+    Drone view of an artisanal salt extraction and chemical refining facility on the coastal flats of Hajjah, geometric evaporation ponds with varying pastel colors, automated packaging factory, 8k --ar 16:9
+    ```
+
+---
+
+## 17. محافظة البيضاء (YE-BA)
+*النطاق: موانئ برية جافة ومراكز شحن وتبادل بضائع محورية وسط الجمهورية، مشاريع استصلاح زراعي، وتحديث شبكات المياه والكهرباء بالمراكز الحضرية.*
+
+82. **BA-GRID-01:**
+    ```text
+    High-altitude aerial masterplan of a massive dry inland transshipment port and multi-modal logistics terminal in Al Bayda, container yards, heavy-freight transfer stations connecting northern and southern corridors, blueprint lines, 8k --ar 16:9
+    ```
+
+83. **BA-GRID-06:**
+    ```text
+    Helicopter aerial view of a large-scale agricultural land reclamation project in Rada' plains, central pivot irrigation circles, modern solar pumping wells, thriving wheat and fodder fields, 8k --ar 16:9
+    ```
+
+84. **BA-GRID-11:**
+    ```text
+    Bird's-eye perspective of an upgraded regional municipal utility substation and power transmission hub, high-voltage switchyards, battery energy storage systems, surrounded by security perimeters, photorealistic --ar 16:9
+    ```
+
+85. **BA-GRID-15:**
+    ```text
+    Aerial architectural rendering of a central urban water treatment and pipeline network in Al Bayda city, elevated balancing reservoirs, administrative headquarters in modern local stone, 8k --ar 16:9
+    ```
+
+86. **BA-GRID-20:**
+    ```text
+    Drone aerial visualization of an industrial livestock market and automated abattoir complex, biosecure processing units, cold-chain logistics, solar-shaded parking structures, 8k --ar 16:9
+    ```
+
+---
+
+## 18. محافظة المحويت (YE-MW)
+*النطاق: تلفريك ومشاريع جذب سياحة بيئية، صيانة وترميم مدرجات البن والفواكه التاريخية، ومنظومات سدود تغذية صلبة لحصاد مياه المنحدرات.*
+
+87. **MW-GRID-01:**
+    ```text
+    Helicopter aerial view of an iconic alpine passenger cable car (teleferic) system spanning dramatic misty gorges in Al Mahwit, sleek glass terminals perched on sheer rock peaks, blueprint elevation lines, 8k --ar 16:9
+    ```
+
+88. **MW-GRID-03:**
+    ```text
+    Ultra-detailed aerial perspective of meticulously restored historic stone coffee terraces clinging to precipitous mountain faces, micro-check dams, rainwater harvesting flumes, lush greenery, photorealistic --ar 16:9
+    ```
+
+89. **MW-GRID-05:**
+    ```text
+    Civil engineering bird's-eye view of a reinforced mountain slope retaining project, high-tensile steel mesh netting, stepped rock gabions protecting mountain roads from landslides, 8k --ar 16:9
+    ```
+
+90. **MW-GRID-07:**
+    ```text
+    Aerial masterplan of a bioclimatic eco-tourism boutique lodge suspended over mountain cliffs, cantilevered timber decks, passive solar orientation, local volcanic stone walls, dramatic sunset --ar 16:9
+    ```
+
+91. **MW-GRID-09:**
+    ```text
+    Drone aerial perspective of a mountain ridge water harvesting network, fog-collection mesh screens, underground cistern storage tanks, supplying clean water to mountain villages, 8k --ar 16:9
+    ```
+
+---
+
+## 19. محافظة ريمة (YE-RA)
+*النطاق: حلول نقل بديلة وجسور جبلية خفيفة معلقة، مصائد مياه الأمطار والضباب، ومحطات طاقة شمسية وكهرومائية هجينة للمجتمعات الوعرة.*
+
+92. **RA-GRID-01:**
+    ```text
+    High-altitude aerial visualization of a series of pedestrian and light-transit suspension cable bridges spanning deep ravines in Raymah, gossamer steel cables connecting cliffside villages, sea of clouds below, 8k --ar 16:9
+    ```
+
+93. **RA-GRID-02:**
+    ```text
+    Helicopter aerial view of an innovative fog and cloud harvesting installation along high mountain ridges of Raymah, geometric arrays of condensation mesh screens channeling water into storage reservoirs, blueprint overlay --ar 16:9
+    ```
+
+94. **RA-GRID-04:**
+    ```text
+    Civil engineering bird's-eye view of a micro-hydroelectric power turbine station installed on a steep mountain waterfall cascade, penstock pipes hugging the rock face, small clean-energy powerhouse, 8k --ar 16:9
+    ```
+
+95. **RA-GRID-05:**
+    ```text
+    Aerial perspective of a terraced agroforestry development in Raymah, multi-tiered fruit orchards and medicinal herbs, organic stone pathways, modern gravity-fed drip irrigation, lush vegetation, 8k --ar 16:9
+    ```
+
+96. **RA-GRID-06:**
+    ```text
+    Drone view of a modular disaster-relief and emergency medical post built on an isolated mountain plateau, helipad, self-sustaining solar microgrid, lightweight aerodynamic structures, 8k --ar 16:9
+    ```
+
+---
+
+## 20. محافظة الجوف (YE-JA)
+*النطاق: مجمعات زراعية عملاقة لإنتاج الحبوب والقمح بتقنيات الري الذكي، استصلاح المساحات المستوية، ومحطات تحويل وضخ مياه بالطاقة الشمسية.*
+
+97. **JA-GRID-01:**
+    ```text
+    High-altitude aerial masterplan of a mega-scale strategic wheat and grain farming belt in Al Jawf, dozens of green center-pivot irrigation fields sprawling across the flat desert basin, technical blueprint CAD frame, 8k --ar 16:9
+    ```
+
+98. **JA-GRID-04:**
+    ```text
+    Helicopter aerial view of a central agricultural grain elevator complex and distribution silos in Al Jawf, automated handling machinery, long-haul freight truck docks, solar rooftop arrays, 8k --ar 16:9
+    ```
+
+99. **JA-GRID-07:**
+    ```text
+    Civil engineering bird's-eye perspective of a large-scale solar-powered groundwater pumping and water conveyance aqueduct system, subterranean pressurized pipelines crossing desert sands, 8k --ar 16:9
+    ```
+
+100. **JA-GRID-10:**
+     ```text
+     Wide aerial masterplan of a newly planned agro-city in Al Jawf, low-rise bioclimatic residential neighborhoods, central agricultural research university, wide canals and public date-palm parks, photorealistic --ar 16:9
+     ```
+
+101. **JA-GRID-12:**
+     ```text
+     Drone aerial perspective of a utility-scale desert solar photovoltaic plant with automated single-axis solar trackers, central battery storage facility, high-voltage transmission lines heading towards the mountains, 8k --ar 16:9
+     ```
+
+---
+
+## 21. أرخبيل سقطرى (YE-SU)
+*النطاق: تخطيط بيئي صديق للطبيعة (Zero-Carbon)، موانئ بيئية خفيفة لا تمس الشعب المرجانية، منشآت سياحية وبحثية مندمجة مع الطراز الحيوي المحلي الفريد.*
+
+102. **SU-GRID-01:**
+     ```text
+     High-altitude aerial masterplan of an ultra-sustainable zero-carbon eco-research and visitor center on Socotra Island, fluid organic biomimetic architecture echoing Dragon's Blood tree canopies, zero concrete footprint, elevated timber boardwalks, blueprint graphics, 8k --ar 16:9
+     ```
+
+103. **SU-GRID-02:**
+     ```text
+     Helicopter aerial view of an eco-engineered minimal-impact marine harbor and wooden pier designed to preserve fragile coral reefs, electric research boats moored, crystal-clear turquoise waters, pristine white sands, Hasselblad style --ar 16:9
+     ```
+
+104. **SU-GRID-03:**
+     ```text
+     Bird's-eye masterplan of an endemic botanical nursery and conservation sanctuary for Dragon's Blood and Bottle trees, climate-controlled organic geodesic biomes, passive cooling, harmonious integration with untouched wilderness, 8k --ar 16:9
+     ```
+
+105. **SU-GRID-04:**
+     ```text
+     Drone aerial perspective of a 100% off-grid clean energy microgrid for Socotra villages, small quiet vertical-axis wind turbines, concealed solar roof tiles, subterranean battery vaults, respectful of pristine landscape, 8k --ar 16:9
+     ```
+
+---
+
+## 22. مشاريع شريانية كبرى عابرة للمحافظات (Interprovincial Mega-Corridors)
+
+106. **CORRIDOR-01 (عدن – تعز – صنعاء):**
+     ```text
+     High-altitude aerial visualization of a multi-lane trans-Yemen expressway viaduct traversing sheer canyons and dramatic mountain tunnels, post-tensioned flyovers, intelligent traffic gantries, European Eurocode engineering standards, 8k --ar 16:9
+     ```
+
+107. **CORRIDOR-02 (المخا – باب المندب – عدن):**
+     ```text
+     Helicopter aerial view of a coastal logistics corridor and wind energy megaproject along the Bab al-Mandab strait, hundreds of offshore and onshore wind turbines, deep-water coastal highway, deep blue sea, 8k --ar 16:9
+     ```
+
+108. **CORRIDOR-03 (شبوة – مأرب – حضرموت):**
+     ```text
+     Bird's-eye masterplan of a high-speed desert freight railway line and strategic energy corridor, ballastless tracks cut through sand dunes with engineered stabilization barriers, modern diesel-electric trains, 8k --ar 16:9
+     ```
+
+109. **CORRIDOR-04 (الحديدة – صنعاء):**
+     ```text
+     Civil engineering aerial view of a heavy-freight bypass highway climbing the western mountain escarpments from Tihama to Sana'a, massive retaining walls, avalanche sheds, multi-tier hairpin viaducts, 8k --ar 16:9
+     ```
+
+110. **CORRIDOR-05 (سقطرى – السواحل الجنوبية):**
+     ```text
+     Ultra-wide aerial perspective of a zero-emission coastal maritime connectivity hub, high-speed hydrogen passenger catamarans docked at an aerodynamic solar-canopied terminal, turquoise open ocean, 8k resolution --ar 16:9
+     ```
