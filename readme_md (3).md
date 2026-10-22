@@ -271,7 +271,8 @@ yemen-national-reconstruction-masterplan/
 
 هذا الملف يحتوي على **110 برومبت تخصصي عالي الدقة** مصممة لتوليد صور معمارية وهندسية جوية وبدقة 8K عبر أنظمة الذكاء الاصطناعي (Midjourney v6, Unreal Engine 5, DALL-E 3, Stable Diffusion XL)، مع مراعاة المعايير الهندسية (Eurocode)، والمخططات التوضيحية (Technical Blueprint Overlays)، والدمج بين الحداثة والهوية المعمارية اليمنية والبيئية.
 
----# دليل البرومبتات الهندسية والمعمارية لمشاريع التنمية وإعادة الإعمار في اليمن
+---
+# دليل البرومبتات الهندسية والمعمارية لمشاريع التنمية وإعادة الإعمار في اليمن
 ### Yemen Mega-Projects Architectural & Civil Engineering Prompts Compendium
 
 هذا الملف يحتوي على **110 برومبت تخصصي عالي الدقة** مصممة لتوليد صور معمارية وهندسية جوية وبدقة 8K عبر أنظمة الذكاء الاصطناعي (Midjourney v6, Unreal Engine 5, DALL-E 3, Stable Diffusion XL)، مع مراعاة المعايير الهندسية (Eurocode)، والمخططات التوضيحية (Technical Blueprint Overlays)، والدمج بين الحداثة والهوية المعمارية اليمنية والبيئية.
