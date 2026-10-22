@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# AutoCAD, Revit & BIM Raw Exports (Large Files)
+*.dwg
+*.rvt
+*.ifc
+*.nwd
+*.blend
+
+# Temporary & Cache Files
+__pycache__/
+*.py[cod]
+.env
+local_storage/
+*.log
+
+# OS Generated
+.DS_Store
+Thumbs.db
