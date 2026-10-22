@@ -279,38 +279,33 @@ yemen-national-reconstruction-masterplan/
 
 ---
 
-## 1. محافظة صنعاء والأمانة (YE-SN)
-*النطاق: تقاطعات حرة وجسور وأنفاق لفك الاختناقات، سدود وقنوات لتصريف وحصاد السيول، مجمعات أبراج سكنية وإدارية حديثة، محطات مركزية لمعالجة مياه الصرف الصحي، ومناطق صناعية وحرفية منظمة.*
+### 1. SN-GRID-01: التقاطع المروري المتعدد المستويات
+Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-separated highway interchange (SN-GRID-01) in Sana'a, Yemen, during the golden hour. Captured from an extreme altitude, the image showcases the vast, sprawling interchange integrating complex curved flyover viaducts, sunken underpass tunnels, and high-speed transit loops designed to European Eurocode standards. The flyovers and barriers are enhanced with modern, glowing LED strips and vibrant, qamariya-inspired geometric acoustic barriers made of futuristic, self-cleaning glass that catch the sunset glint. Smart, autonomous vehicles and high-speed electric transit (BRT) navigate the intricate, flowing lanes. The interchange is enveloped by expansive, terraced green parks, pedestrian pathways, and water-harvesting landscapes that soften the concrete and arid terrain. Modern solar arrays are integrated into the barrier tops. The surrounding urban fabric blends historic Sana’a tower houses with sleek, futuristic sustainable developments, with the rugged, expansive mountain range of the Sana'a basin stretching to the distant horizon. Minimal, technical blueprint overlay graphics (project IDs, vector paths, grids) are subtly visible at the frame edges, with 'SN-GRID-01' and 'SANA'A FUTURE INTERCHANGE' written in Arabic and English. Photorealistic, Hasselblad 8k. --ar 16:9
 
-1. **SN-GRID-01:**
-   ```text
-   High-altitude aerial architectural visualization of a futuristic multi-level grade-separated highway interchange in Sana'a, integrated curved flyover viaducts, sunken underpass tunnels, European Eurocode highway standards, Qamariya-inspired geometric acoustic barriers, Unreal Engine 5 render, blueprint overlay graphics, golden hour, 8k resolution --ar 16:9
-   ```
+--------------------------------------------------
 
-2. **SN-GRID-05:**
-   ```text
-   Helicopter aerial masterplan of a massive reinforced concrete flood control dam and cascading spillway canyon in Sana'a basin, integrated subterranean stormwater bypass culverts, retaining cliffs with rock-bolting patterns, dry riverbed green revitalization, Hasselblad photorealistic, 8k --ar 16:9
-   ```
+# 2. SN-GRID-05: سد التحكم بالفيضانات وإعادة إحياء الوادي
+Extreme-altitude helicopter aerial masterplan of a massive, hyper-modern reinforced concrete flood control dam and cascading spillway canyon (SN-GRID-05) in the Sana'a basin, Yemen. The shot, taken from an immense height, reveals the colossal curved gravity dam spanning a deep, rugged canyon. The stepped spillway cascade drop is designed to mitigate flash floods. Futuristic subterranean stormwater bypass intake portals are visible at the base, leading to massive underground culverts. The vast, sheer canyon walls are heavily engineered with advanced rock-bolting, mesh, and shotcrete stabilization. Below the dam, the dry wadi has been revitalized into an expansive, lush, and terraced green agroforestry corridor and park system, with winding pedestrian paths, access roads, and small groundwater recharge ponds, looking like a green oasis in the arid landscape. On the distant upper plateau, the historic and modern Sana'a urban fringe with its traditional tower houses is visible. Far in the background, the vast, dry catchment area and the majestic, rugged mountain ranges of the Sana'a basin are captured under natural, slightly hazy afternoon daylight. Subtle engineering markings ('SN-GRID-05' and 'SANA'A BASIN FLOOD CONTROL' in Arabic and English) are embedded in the margins. Highly detailed, photorealistic 8k. --ar 16:9
 
-3. **SN-GRID-09:**
-   ```text
-   Ultra-detailed aerial masterplan of an iconic modern administrative district in Sana'a, sleek monolithic towers blending Yemeni layered basalt and white gypsum trim with parametric curtain glass, dynamic kinetic shading louvers, wide pedestrian plazas, 8k, golden hour --ar 16:9
-   ```
+--------------------------------------------------
 
-4. **SN-GRID-14:**
-   ```text
-   Wide aerial view of an advanced municipal wastewater reclamation plant in Sana'a outskirts, circular biological clarifiers, subterranean filtration tanks, surrounded by lush agroforestry buffers, technical engineering blueprint markings, crisp daylight, photorealistic --ar 16:9
-   ```
+# 3. SN-GRID-09: الحي الإداري الحديث
+Ultra-high-altitude panoramic aerial masterplan of an iconic, futuristic administrative district (SN-GRID-09) in Sana'a, Yemen, captured during the golden hour. The extreme-altitude viewpoint reveals a vast complex of sleek, monolithic administrative towers that seamlessly blend traditional Yemeni layered basalt and white gypsum patterns with advanced parametric curtain glass, solar-harvesting materials, and dynamic, kinetic shading louvers that warp along the facades. Rooftop gardens, solar grids, and helipads crown the skyscrapers. On the ground, an expansive, interconnected network of wide pedestrian plazas, public squares, and tiered courtyards is teeming with activity, paved with intricate geometric stone patterns. Interspersed are lush green parks, water features, reflecting pools, and modern transit corridors. Wide pedestrian walkways and transit stations connect the structures. The sprawling cityscape of Sana'a’s historic and dense multi-story tower houses is visible adjacent to the new district, all set against the immense, rugged mountain backdrop of the Sana'a basin, glowing warmly under the low sun. Subtle technical blueprint overlays and label graphics ('SN-GRID-09' and 'SANA'A ADMINISTRATIVE DISTRICT' in Arabic and English) are finely integrated into the frame borders. Unreal Engine 5 aesthetic, photorealistic, 8k. --ar 16:9
 
-5. **SN-GRID-20:**
-   ```text
-   Aerial masterplan layout of an organized eco-industrial and artisanal manufacturing park, high-efficiency solar photovoltaic roofs, automated logistics yards, electric vehicle freight lanes, modern regional Yemeni stone facades, hyper-realistic, 8k resolution --ar 16:9
-   ```
+--------------------------------------------------
 
-6. **SN-GRID-26:**
-   ```text
-   Cinematic aerial perspective of a subterranean multi-modal transport hub and central metro-bus terminal in Sana'a, sweeping landscaped sunken plazas, skylights with geometric Islamic tracery, autonomous transit corridors, Unreal Engine 5, 8k --ar 16:9
-   ```
+# 4. SN-GRID-14: محطة معالجة وإعادة تدوير المياه
+Wide, extreme-altitude aerial photograph of an advanced municipal wastewater reclamation plant (SN-GRID-14) located on the vast outskirts of Sana'a, Yemen, under crisp, natural daylight. Captured from a massive height, the entire sprawling industrial facility is shown nestled within a rugged, mountainous desert landscape. The heart of the plant features dozens of large, circular biological clarifiers, rectangular aeration basins with churning water, massive covered anaerobic digesters, and subterranean filtration systems connected by an intricate network of pipelines and service roads. To the side are large holding and sedimentation reservoirs. Surrounding the massive facility are extensive, lush agroforestry buffers and terraced agricultural fields thriving on the reclaimed water, creating a stark green contrast with the dusty, arid terrain. Modern solar arrays are visible on top of all building roofs. Small maintenance vehicles and operations are seen as tiny details. In the far distance, the traditional and modern urban fringes of Sana’a, along with the vast, sweeping mountain ranges, fade into the horizon. Subtle technical engineering blueprint markings and labels ('SN-GRID-14' and 'SANA'A WASTEWATER RECLAMATION PLANT' in Arabic and English) are integrated at the borders. Photorealistic, Hasselblad 8k. --ar 16:9
+
+--------------------------------------------------
+
+# 5. SN-GRID-20: المدينة الصناعية البيئية ومجمع الحرفيين
+Extreme-altitude panoramic aerial masterplan of an organized, eco-industrial and artisanal manufacturing park (SN-GRID-20) on the outskirts of Sana'a, Yemen. Shot from a massive height during early morning light, the image reveals a highly organized, grid-like industrial district. The building roofs are almost entirely covered with dark, glittering solar photovoltaic panels, interspersed with green roof sections. The structures integrate modern Yemeni architecture, combining rugged local stone facades with intricate geometric masonry and white gypsum accents on the upper portions. Active, automated logistics yards with stacked shipping containers, automated gantry cranes, and electric vehicle freight lanes, marked with green transit lines, are busy with cargo trucks and autonomous utility vehicles. Extensive landscaped green buffers, bioswales, and pathways with native drought-resistant vegetation run between the industrial blocks. Artisanal zones with open-air covered courtyards are seen alongside large manufacturing plants. The vast, rugged landscape of the Sana'a basin, with its dry wadis, distant traditional villages, and the expansive mountain ranges, stretches to the horizon under a soft morning haze. Faint technical blueprint overlays ('SN-GRID-20' and 'SANA'A ECO-INDUSTRIAL & ARTISANAL PARK' in Arabic and English) are placed in the corners. Ultra-detailed, photorealistic 8k. --ar 16:9
+
+--------------------------------------------------
+
+# 6. SN-GRID-26: مركز النقل التحت أرضي والساحة العامة
+Cinematic, ultra-high-altitude aerial perspective of a massive subterranean multi-modal transport hub and central metro-bus terminal (SN-GRID-26) in Sana'a, Yemen, at golden hour. Captured from an immense height, the image reveals a vast, tiered, sunken urban plaza carved into the ground. Sprawling landscaped terraces, pedestrian walkways, and lush green gardens descend to subterranean levels. Massive architectural skylights covered in intricate, geometric Islamic tracery are prominently visible, illuminating the busy underground transit platforms and metro-bus stations below. Autonomous transit corridors, dedicated bus lanes, and pedestrian walkways are packed with activity, while modern rapid transit lines are visible through glass-enclosed subterranean galleries. The architecture seamlessly blends natural stone, geometric patterns, and white gypsum detailing inspired by Sana’a’s historic Qamariya windows with cutting-edge structural engineering. The expansive, dense urban fabric of Sana’a and its traditional tower houses surround the hub, stretching to the rugged, majestic mountain ranges that dominate the horizon. The low sun casts long, warm shadows, with moving traffic and glowing transit lanes adding life to the massive scale. Faint technical blueprint overlays, grid lines, and labels ('SN-GRID-26' and 'SANA'A CENTRAL METRO-BUS TERMINAL' in Arabic and English) are integrated into the edges. Unreal Engine 5 style, photorealistic, 8k. --ar 16:9
 
 ---
 
