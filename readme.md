@@ -362,7 +362,7 @@ Cinematic, ultra-high-altitude aerial perspective of a massive subterranean mult
 ## 2. محافظة عدن (YE-AD)
 *النطاق: محطات تحلية مياه البحر بالطاقة المتجددة، تحديث وتطوير الواجهات البحرية والشواطئ، موانئ لوجستية جافة، جسور ربط بحرية وخور مكسر، مدن استثمارية مقاومة للمناخ والرطوبة الملحية.
 
-*7. **AD-GRID-01:**
+7. **AD-GRID-01:**
    Ultra-high-altitude panoramic aerial masterplan of a colossal zero-emission seawater desalination megaproject (AD-GRID-01) along the coastal peninsula of Aden, Yemen. The extreme-altitude viewpoint captures the massive, modular reverse-osmosis industrial complex integrated with an extensive offshore floating solar photovoltaic farm and deep-water wind turbine arrays spreading across the turquoise waters of the Gulf of Aden. Subterranean intake conduits and marine outfall diffusers create subtle water-motion patterns visible from above. The coastal facility is constructed with salt-mist resistant titanium and composite structures, interconnected by automated utility pipelines and clean transport corridors. The rugged volcanic cliffs and arid coastline of Aden seamlessly frame the facility, leading out to the deep-blue open sea under crisp, sharp midday sunlight. Highly detailed, engineering CAD blueprint graphics, grid markings, and text labels ('AD-GRID-01' and 'ADEN DESALINATION MEGAPROJECT' in Arabic and English) subtly frame the borders. Photorealistic, Hasselblad 8k. --ar 16:9
 
 --------------------------------------------------
