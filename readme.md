@@ -323,29 +323,6 @@ yemen-national-reconstruction-masterplan/
 
 
 
-<p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
-</p>
-
----
-
-<p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
-</p>
-
-
----
-
 ### 1. SN-GRID-01: التقاطع المروري المتعدد المستويات
 Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-separated highway interchange (SN-GRID-01) in Sana'a, Yemen, during the golden hour. Captured from an extreme altitude, the image showcases the vast, sprawling interchange integrating complex curved flyover viaducts, sunken underpass tunnels, and high-speed transit loops designed to European Eurocode standards. The flyovers and barriers are enhanced with modern, glowing LED strips and vibrant, qamariya-inspired geometric acoustic barriers made of futuristic, self-cleaning glass that catch the sunset glint. Smart, autonomous vehicles and high-speed electric transit (BRT) navigate the intricate, flowing lanes. The interchange is enveloped by expansive, terraced green parks, pedestrian pathways, and water-harvesting landscapes that soften the concrete and arid terrain. Modern solar arrays are integrated into the barrier tops. The surrounding urban fabric blends historic Sana’a tower houses with sleek, futuristic sustainable developments, with the rugged, expansive mountain range of the Sana'a basin stretching to the distant horizon. Minimal, technical blueprint overlay graphics (project IDs, vector paths, grids) are subtly visible at the frame edges, with 'SN-GRID-01' and 'SANA'A FUTURE INTERCHANGE' written in Arabic and English. Photorealistic, Hasselblad 8k. --ar 16:9
 
