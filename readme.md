@@ -360,33 +360,30 @@ Cinematic, ultra-high-altitude aerial perspective of a massive subterranean mult
 ---
 
 ## 2. محافظة عدن (YE-AD)
-*النطاق: محطات تحلية مياه البحر بالطاقة المتجددة، تحديث وتطوير الواجهات البحرية والشواطئ، موانئ لوجستية جافة، جسور ربط بحرية وخور مكسر، مدن استثمارية مقاومة للمناخ والرطوبة الملحية.*
+*النطاق: محطات تحلية مياه البحر بالطاقة المتجددة، تحديث وتطوير الواجهات البحرية والشواطئ، موانئ لوجستية جافة، جسور ربط بحرية وخور مكسر، مدن استثمارية مقاومة للمناخ والرطوبة الملحية.
 
-7. **AD-GRID-01:**
-   ```text
-   High-altitude aerial masterplan of a zero-emission seawater desalination megaproject in Aden, powered by an adjacent offshore solar and wind array, advanced reverse osmosis modular buildings, marine outfall diffusers, technical CAD annotations, crisp midday light --ar 16:9
-   ```
+*7. **AD-GRID-01:**
+   Ultra-high-altitude panoramic aerial masterplan of a colossal zero-emission seawater desalination megaproject (AD-GRID-01) along the coastal peninsula of Aden, Yemen. The extreme-altitude viewpoint captures the massive, modular reverse-osmosis industrial complex integrated with an extensive offshore floating solar photovoltaic farm and deep-water wind turbine arrays spreading across the turquoise waters of the Gulf of Aden. Subterranean intake conduits and marine outfall diffusers create subtle water-motion patterns visible from above. The coastal facility is constructed with salt-mist resistant titanium and composite structures, interconnected by automated utility pipelines and clean transport corridors. The rugged volcanic cliffs and arid coastline of Aden seamlessly frame the facility, leading out to the deep-blue open sea under crisp, sharp midday sunlight. Highly detailed, engineering CAD blueprint graphics, grid markings, and text labels ('AD-GRID-01' and 'ADEN DESALINATION MEGAPROJECT' in Arabic and English) subtly frame the borders. Photorealistic, Hasselblad 8k. --ar 16:9
+
+--------------------------------------------------
 
 8. **AD-GRID-03:**
-   ```text
-   Ultra-luxury aerial view of a revitalized waterfront and coastal corniche in Aden, fluid parametric promenades, salt-mist resistant white titanium-clad pavilions, public piers extending into the turquoise Gulf of Aden, golden hour lighting, Hasselblad style --ar 16:9
-   ```
+   Cinematic, ultra-high-altitude aerial panorama of a world-class revitalized waterfront and coastal corniche (AD-GRID-03) stretching along the shore of Aden, Yemen, during the golden hour. The extreme-wide perspective highlights fluid, undulating parametric promenades, tiered maritime public plazas, and salt-mist resistant white titanium-clad pavilions glowing in the low sun. Sculptural pedestrian piers and marina docks extend out into the turquoise waters of the Gulf of Aden, lined with vibrant public spaces, shade canopies, and lush halophyte coastal gardens. High-altitude view encompasses the surrounding natural bay, coastal road corridors with smooth traffic flow, and Aden’s dramatic volcanic backdrop casting long, majestic shadows across the shore. Subtle technical blueprint overlays, geometric scale axes, and bilingual labels ('AD-GRID-03' and 'ADEN COASTAL CORNICHE') are elegantly integrated along the outer edges. Unreal Engine 5 render, photorealistic, 8k. --ar 16:9
+
+--------------------------------------------------
 
 9. **AD-GRID-05:**
-   ```text
-   Helicopter aerial perspective of a massive dry logistics port and automated intermodal container terminal behind Aden port, high-speed rail freight links, electric gantry cranes, smart container stacks, blueprint frame borders, 8k resolution --ar 16:9
-   ```
+   Extreme-altitude aerial masterplan view of a massive inland dry logistics port and automated intermodal container terminal (AD-GRID-05) situated strategically in the hinterland behind the main port of Aden, Yemen. Shot from a high vantage point, the sprawling multi-square-kilometer terminal displays thousands of neatly organized, color-coded smart container stacks operated by automated rail-mounted electric gantry cranes. High-speed rail freight spurs, dedicated autonomous electric truck highways, and customs inspection complexes cut cleanly through the arid coastal basin. Expansive rooftop solar installations gleam atop state-of-the-art climate-controlled logistics warehouses. In the far distance, the natural harbor, sea-lanes, and Aden's rugged terrain outline the horizon under a clear, bright morning sky. Faint HUD blueprint technical graphics, transit route vectors, and labels ('AD-GRID-05' and 'ADEN INTERMODAL LOGISTICS TERMINAL' in Arabic and English) line the corners. Hasselblad aerial photorealism, 8k. --ar 16:9
+
+--------------------------------------------------
 
 10. **AD-GRID-07:**
-    ```text
-    Iconic aerial view of an expansive cable-stayed sea-crossing bridge spanning Khor Maksar lagoon, sculpted aerodynamic concrete pylons, integrated LED lighting gantries, vibrant mangrove conservation zones beneath, sunset reflection, photorealistic --ar 16:9
-    ```
+    Iconic ultra-high-altitude aerial panoramic view of a massive, aerodynamic cable-stayed sea-crossing bridge (AD-GRID-07) spanning the expansive Khor Maksar lagoon in Aden, Yemen, at sunset. The bird’s-eye perspective showcases sculpted, soaring white concrete pylons with hyper-modern tension stays supporting multi-lane highways and light rail transit. The bridge curves gracefully across the water, casting vibrant reflections across the calm tidal bay. Directly beneath and alongside the bridge viaducts lie preserved, thriving mangrove conservation zones and revitalized marine wetlands, creating a striking contrast between raw ecological beauty and cutting-edge civil engineering. Glowing LED illumination outlines the pylons and traffic ribbons as the golden hour transitions into dusk, with the cityscape and mountainous peninsula of Aden stretching far into the distance. Minimal architectural blueprint grids and bilingual captions ('AD-GRID-07' and 'KHOR MAKSAR SEA BRIDGE') are framed into the margins. Hyper-realistic, 8k. --ar 16:9
+
+--------------------------------------------------
 
 11. **AD-GRID-08:**
-    ```text
-    Aerial masterplan of a climate-resilient smart financial peninsula in Aden, corrosion-resistant curved alloy architecture, elevated pedestrian decks above storm surge levels, floating solar marina, Unreal Engine 5, 8k --ar 16:9
-    ```
-
+    Ultra-high-altitude futuristic masterplan aerial view of a climate-resilient smart financial peninsula (AD-GRID-08) rising along the waters of Aden, Yemen, captured in soft morning light. The immense perspective reveals a cluster of sleek, aerodynamic high-rises clad in corrosion-resistant curved alloys, marine glass, and integrated vertical vegetation. The entire financial island is engineered upon elevated seawalls and multi-tiered pedestrian decks positioned safely above storm surge and sea-level rise thresholds. An adjacent floating solar marina and autonomous water taxi network link the island to the mainland. Water canals, bioswales, and tidal defense buffers weave between the towers, reflecting the turquoise waters of the gulf. In the background, the broader Aden peninsula, ancient crater features, and vast sea-lanes unfurl toward the distant horizon. Technical CAD layout lines, data overlays, and dual-language labels ('AD-GRID-08' and 'ADEN FINANCIAL PENINSULA' in Arabic and English) accent the edges. Unreal Engine 5 aesthetic, photorealistic, 8k. --ar 16:9
 ---
 
 ## 3. محافظة تعز (YE-TZ)
