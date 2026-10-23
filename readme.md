@@ -217,6 +217,27 @@ High-altitude aerial architectural masterplan of an ultra-modern smart maritime 
 
 ```
 
+---
+
+
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
+
+
+---
+
+
+
 ## 7. خطوات تشغيل المنصة والمستودع للجامعات (Quick Start Guide)
 
 لضمان بدء الرفع الميداني في غضون دقائق، تتبع كل مجموعة هندسية الخطوات الست التالية:
@@ -276,6 +297,35 @@ yemen-national-reconstruction-masterplan/
 ### Yemen Mega-Projects Architectural & Civil Engineering Prompts Compendium
 
 هذا الملف يحتوي على **110 برومبت تخصصي عالي الدقة** مصممة لتوليد صور معمارية وهندسية جوية وبدقة 8K عبر أنظمة الذكاء الاصطناعي (Midjourney v6, Unreal Engine 5, DALL-E 3, Stable Diffusion XL)، مع مراعاة المعايير الهندسية (Eurocode)، والمخططات التوضيحية (Technical Blueprint Overlays)، والدمج بين الحداثة والهوية المعمارية اليمنية والبيئية.
+
+
+
+
+
+---
+
+
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
 
 ---
 
