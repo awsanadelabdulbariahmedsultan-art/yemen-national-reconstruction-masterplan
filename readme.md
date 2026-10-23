@@ -203,6 +203,23 @@ Ultra-detailed masterplan and architectural elevation of an iconic futuristic su
 
 ```
 
+
+<p align="center">
+  <img src="./الأبراج والمدن السكنية المستدامة1.jpeg" alt="الأبراج والمدن السكنية المستدامة1  - View 1" width="49%">
+  <img src="./الأبراج والمدن السكنية المستدامة2.jpeg" alt="الأبراج والمدن السكنية المستدامة2  - View 2" width="49%">
+</p>
+
+---
+
+<p align="center">
+  <img src="./الأبراج والمدن السكنية المستدامة3.jpeg" alt="الأبراج والمدن السكنية المستدامة3  - View 1" width="49%">
+  <img src="./الأبراج والمدن السكنية المستدامة4.jpeg" alt="الأبراج والمدن السكنية المستدامة4  - View 2" width="49%">
+</p>
+
+---
+
+
+
 ### 2. الجسور الجبلية الشاهقة والأنفاق المزدوجة (Viaducts & Twin-Tube Mountain Tunnels)
 
 ```
