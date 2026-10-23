@@ -239,14 +239,14 @@ High-altitude aerial architectural masterplan of an ultra-modern smart maritime 
 
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./موانئ لوجستية ذكية والواجهات البحرية الفاخرة2.jpeg" alt="موانئ لوجستية ذكية والواجهات البحرية الفاخرة2" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./الموانئ اللوجستية الذكية والواجهات البحرية الفاخرة.jpeg" alt="الموانئ اللوجستية الذكية والواجهات البحرية الفاخرة  - View 1" width="49%">
+  <img src="./موانئ لوجستية ذكية والواجهات البحرية الفاخرة3.jpeg" alt="موانئ لوجستية ذكية والواجهات البحرية الفاخرة3  - View 2" width="49%">
 </p>
 
 
