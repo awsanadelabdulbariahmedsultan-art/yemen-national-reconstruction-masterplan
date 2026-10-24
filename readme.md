@@ -427,7 +427,6 @@ Wide, extreme-altitude aerial photograph of an advanced municipal wastewater rec
 --------------------------------------------------
 
 # 5. SN-GRID-20: المدينة الصناعية البيئية ومجمع الحرفيين
-# 5. SN-GRID-20: المدينة الصناعية البيئية ومجمع الحرفيين
 Extreme-altitude, panoramic aerial masterplan photograph of an upgraded, next-generation global smart eco-industrial city (SN-GRID-20) in the Sana'a basin, Yemen, featuring an advanced linear eco-hydrology design. 
 
 Captured from a massive altitude in sharp early morning light, the masterplan reveals an optimized, modular industrial grid bisected by a continuous, engineered linear bio-canal spine and cascading stone-lined retention terraces instead of a single central lake. This narrow, high-efficiency water artery features native aquatic filtration reeds, solar-powered aeration fountains, and flanking shaded pedestrian boardwalks, acting as both a natural evaporative cooling axis and a controlled stormwater diversion channel. 
