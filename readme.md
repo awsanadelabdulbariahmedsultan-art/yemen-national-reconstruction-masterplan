@@ -378,20 +378,6 @@ Extreme-altitude helicopter aerial masterplan of a massive, hyper-modern reinfor
   <img src="./2 SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="2 SN-GRID-05: سد التحكم بالفيضانات" width="1200">
 </p>
 
----
-
-<p align="center">
-  <img src="./SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="SN-GRID-05: سد التحكم بالفيضانات" width="1200">
-</p>
-
-
----
-
-
-<p align="center">
-  <img src="./SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="SN-GRID-05: سد التحكم بالفيضانات - View 1" width="49%">
-  <img src="./2 SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="2 SN-GRID-05: سد التحكم بالفيضانات  - View 2" width="49%">
-</p>
 
 
 
