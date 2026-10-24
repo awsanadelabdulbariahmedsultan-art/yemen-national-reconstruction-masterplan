@@ -227,6 +227,27 @@ Mega-scale civil engineering visualization and technical blueprint of a multi-ti
 
 ```
 
+
+---
+
+
+
+<p align="center">
+  <img src="./الجسور الجبلية الشاهقة والأنفاق المزدوجة3.jpeg" alt="الجسور الجبلية الشاهقة والأنفاق المزدوجة3" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./الجسور الجبلية الشاهقة والأنفاق المزدوجة2.jpeg" alt="الجسور الجبلية الشاهقة والأنفاق المزدوجة2 - View 1" width="49%">
+  <img src="./الجسور الجبلية الشاهقة والأنفاق المزدوجة1.jpeg" alt="الجسور الجبلية الشاهقة والأنفاق المزدوجة1  - View 2" width="49%">
+</p>
+
+
+
+---
+
+
 ### 3. الموانئ اللوجستية الذكية والواجهات البحرية الفاخرة (Smart Maritime Hub & Luxury Waterfront)
 
 ```
