@@ -354,8 +354,8 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 
 
 <p align="center">
-  <img src="./2 SN-GRID-01.jpeg" alt="2 SN-GRID-01  - View 1" width="49%">
-  <img src="./SN-GRID-01.jpeg" alt="SN-GRID-01  - View 2" width="49%">
+  <img src="./SN1.jpeg" alt="SN1  - View 1" width="49%">
+  <img src="./SN1#.jpeg" alt="SN1#  - View 2" width="49%">
 </p>
 
 ---
