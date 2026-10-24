@@ -401,8 +401,7 @@ Ultra-high-altitude panoramic aerial masterplan of an iconic, futuristic adminis
 
 
 <p align="center">
-  <img src="./SN-GRID-09: الحي الإداري الحديث   .jpeg" alt="SN-GRID-09: الحي الإداري الحديث    - View 1" width="49%">
-  <img src="./2 SN-GRID-09: الحي الإداري الحديث.jpeg" alt="2 SN-GRID-09: الحي الإداري الحديث  - View 2" width="49%">
+  <img src="./sn9.jpeg" alt="sn9" width="1200">
 </p>
 
 
