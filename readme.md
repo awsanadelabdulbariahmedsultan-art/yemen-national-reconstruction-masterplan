@@ -416,9 +416,9 @@ Wide, extreme-altitude aerial photograph of an advanced municipal wastewater rec
 
 
 <p align="center">
-  <img src="./SN-GRID-14: محطة معالجة وإعادة تدوير المياه   .jpeg" alt="SSN-GRID-14: محطة معالجة وإعادة تدوير المياه    - View 1" width="49%">
-  <img src="./2 SN-GRID-14: محطة معالجة وإعادة تدوير المياه.jpeg" alt="2 SN-GRID-14: محطة معالجة وإعادة تدوير المياه  - View 2" width="49%">
+  <img src="./sn14.jpeg" alt="sn14" width="1200">
 </p>
+
 
 
 
