@@ -205,7 +205,7 @@ Ultra-detailed masterplan and architectural elevation of an iconic futuristic su
 
 
 <p align="center">
-  <img src="./1SN1.jpeg" alt="1SN1#  - View 1" width="49%">
+  <img src="./1SN1.jpeg" alt="1SN1  - View 1" width="49%">
   <img src="./SN1.jpeg" alt="SN1  - View 2" width="49%">
 </p>
 
