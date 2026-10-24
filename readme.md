@@ -362,7 +362,7 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 ---
 
 <p align="center">
-  <img src="./SN1#.jpeg" alt="SN1#" width="1200">
+  <img src="./1SN1.jpeg" alt="1SN1" width="1200">
 </p>
 
 
