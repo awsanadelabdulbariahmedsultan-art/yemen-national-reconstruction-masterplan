@@ -431,11 +431,6 @@ Extreme-altitude panoramic aerial masterplan of an organized, eco-industrial and
 
 
 
-<p align="center">
-  <img src="./2 SN-GRID-20: مدينة صناعية بيئية ومجمع الحرفيين.jpeg" alt="2 SN-GRID-20: مدينة صناعية بيئية ومجمع الحرفيين" width="1200">
-</p>
-
-
 ---
 
 --------------------------------------------------
