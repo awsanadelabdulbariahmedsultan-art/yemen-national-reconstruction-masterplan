@@ -354,12 +354,23 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 
 
 
+<p align="center">
+  <img src="./1SN1.jpeg" alt="1SN1" width="1200">
+</p>
 
 
+<p align="center">
+  <img src="./SN1.jpeg" alt="SN1" width="1200">
+</p>
 
 
+---
 
 
+<p align="center">
+  <img src="./SN1.jpeg" alt="SN1 - View 1" width="49%">
+  <img src="./1SN1.jpeg" alt="1SN1  - View 2" width="49%">
+</p>
 
 
 
@@ -435,23 +446,6 @@ Cinematic, ultra-high-altitude aerial perspective of a massive subterranean mult
 
 
 
-<p align="center">
-  <img src="./1SN1.jpeg" alt="1SN1" width="1200">
-</p>
-
-
-<p align="center">
-  <img src="./SN1.jpeg" alt="SN1" width="1200">
-</p>
-
-
----
-
-
-<p align="center">
-  <img src="./SN1.jpeg" alt="SN1 - View 1" width="49%">
-  <img src="./1SN1.jpeg" alt="1SN1  - View 2" width="49%">
-</p>
 
 
 
