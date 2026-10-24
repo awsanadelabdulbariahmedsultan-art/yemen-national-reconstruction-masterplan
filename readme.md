@@ -376,6 +376,14 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 # 2. SN-GRID-05: سد التحكم بالفيضانات وإعادة إحياء الوادي
 Extreme-altitude helicopter aerial masterplan of a massive, hyper-modern reinforced concrete flood control dam and cascading spillway canyon (SN-GRID-05) in the Sana'a basin, Yemen. The shot, taken from an immense height, reveals the colossal curved gravity dam spanning a deep, rugged canyon. The stepped spillway cascade drop is designed to mitigate flash floods. Futuristic subterranean stormwater bypass intake portals are visible at the base, leading to massive underground culverts. The vast, sheer canyon walls are heavily engineered with advanced rock-bolting, mesh, and shotcrete stabilization. Below the dam, the dry wadi has been revitalized into an expansive, lush, and terraced green agroforestry corridor and park system, with winding pedestrian paths, access roads, and small groundwater recharge ponds, looking like a green oasis in the arid landscape. On the distant upper plateau, the historic and modern Sana'a urban fringe with its traditional tower houses is visible. Far in the background, the vast, dry catchment area and the majestic, rugged mountain ranges of the Sana'a basin are captured under natural, slightly hazy afternoon daylight. Subtle engineering markings ('SN-GRID-05' and 'SANA'A BASIN FLOOD CONTROL' in Arabic and English) are embedded in the margins. Highly detailed, photorealistic 8k. --ar 16:9
 
+
+
+<p align="center">
+  <img src="./2 SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="2 SN-GRID-05: سد التحكم بالفيضانات" width="1200">
+</p>
+
+
+
 <p align="center">
   <img src="./SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="SN-GRID-05: سد التحكم بالفيضانات - View 1" width="49%">
   <img src="./2 SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="2 SN-GRID-05: سد التحكم بالفيضانات - View 2" width="49%">
