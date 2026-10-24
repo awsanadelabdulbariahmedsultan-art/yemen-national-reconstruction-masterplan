@@ -445,7 +445,9 @@ Cinematic, ultra-high-altitude aerial perspective of a massive subterranean mult
 
 
 
-
+<p align="center">
+  <img src="./sn26.jpeg" alt="sn26" width="1200">
+</p>
 
 
 ---
