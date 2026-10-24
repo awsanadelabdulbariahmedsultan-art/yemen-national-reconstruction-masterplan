@@ -355,10 +355,7 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 
 
 
-<p align="center">
-  <img src="./SN1.jpeg" alt="SN1 - View 1" width="49%">
-  <img src="./1SN1.jpeg" alt="1SN1  - View 2" width="49%">
-</p>
+
 
 
 
@@ -391,8 +388,8 @@ Extreme-altitude helicopter aerial masterplan of a massive, hyper-modern reinfor
 
 
 <p align="center">
-  <img src="./2 SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="2 SN-GRID-05: سد التحكم بالفيضانات - View 1" width="49%">
-  <img src="./1SN1.jpeg" alt="1SN1  - View 2" width="49%">
+  <img src="./SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="SN-GRID-05: سد التحكم بالفيضانات - View 1" width="49%">
+  <img src="./2 SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="2 SN-GRID-05: سد التحكم بالفيضانات  - View 2" width="49%">
 </p>
 
 
