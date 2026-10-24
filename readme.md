@@ -383,7 +383,7 @@ Extreme-altitude helicopter aerial masterplan of a massive, hyper-modern reinfor
 
 
 <p align="center">
-  <img src="./SN1.jpeg" alt="SN1" width="1200">
+  <img src="./SN-GRID-05: سد التحكم بالفيضانات.jpeg" alt="SN-GRID-05: سد التحكم بالفيضانات" width="1200">
 </p>
 
 
