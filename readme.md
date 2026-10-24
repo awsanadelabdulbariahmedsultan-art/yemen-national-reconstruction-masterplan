@@ -354,8 +354,8 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 
 
 <p align="center">
-  <img src="./SN1.jpeg" alt="SN1  - View 1" width="49%">
-  <img src="./SN1#.jpeg" alt="SN1#  - View 2" width="49%">
+  <img src="./الأبراج والمدن السكنية المستدامة3.jpeg" alt="الأبراج والمدن السكنية المستدامة3  - View 1" width="49%">
+  <img src="./الأبراج والمدن السكنية المستدامة4.jpeg" alt="الأبراج والمدن السكنية المستدامة4  - View 2" width="49%">
 </p>
 
 ---
