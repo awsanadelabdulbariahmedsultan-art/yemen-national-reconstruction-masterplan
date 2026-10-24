@@ -351,7 +351,20 @@ Ultra-high-altitude panoramic aerial photo of a futuristic, multi-level grade-se
 
 ---
 
-<img src="./2%20SN-GRID-01.jpeg" alt="2 SN-GRID-01- View 2" width="49%">
+
+
+<p align="center">
+  <img src="./الأبراج والمدن السكنية المستدامة1.jpeg" alt="الأبراج والمدن السكنية المستدامة1  - View 1" width="49%">
+  <img src="./الأبراج والمدن السكنية المستدامة2.jpeg" alt="الأبراج والمدن السكنية المستدامة2  - View 2" width="49%">
+</p>
+
+---
+
+<p align="center">
+  <img src="./الأبراج والمدن السكنية المستدامة3.jpeg" alt="الأبراج والمدن السكنية المستدامة3  - View 1" width="49%">
+  <img src="./الأبراج والمدن السكنية المستدامة4.jpeg" alt="الأبراج والمدن السكنية المستدامة4  - View 2" width="49%">
+</p>
+
 
 
 ---
