@@ -427,7 +427,20 @@ Wide, extreme-altitude aerial photograph of an advanced municipal wastewater rec
 --------------------------------------------------
 
 # 5. SN-GRID-20: المدينة الصناعية البيئية ومجمع الحرفيين
-Extreme-altitude panoramic aerial masterplan of an organized, eco-industrial and artisanal manufacturing park (SN-GRID-20) on the outskirts of Sana'a, Yemen. Shot from a massive height during early morning light, the image reveals a highly organized, grid-like industrial district. The building roofs are almost entirely covered with dark, glittering solar photovoltaic panels, interspersed with green roof sections. The structures integrate modern Yemeni architecture, combining rugged local stone facades with intricate geometric masonry and white gypsum accents on the upper portions. Active, automated logistics yards with stacked shipping containers, automated gantry cranes, and electric vehicle freight lanes, marked with green transit lines, are busy with cargo trucks and autonomous utility vehicles. Extensive landscaped green buffers, bioswales, and pathways with native drought-resistant vegetation run between the industrial blocks. Artisanal zones with open-air covered courtyards are seen alongside large manufacturing plants. The vast, rugged landscape of the Sana'a basin, with its dry wadis, distant traditional villages, and the expansive mountain ranges, stretches to the horizon under a soft morning haze. Faint technical blueprint overlays ('SN-GRID-20' and 'SANA'A ECO-INDUSTRIAL & ARTISANAL PARK' in Arabic and English) are placed in the corners. Ultra-detailed, photorealistic 8k. --ar 16:9
+# 5. SN-GRID-20: المدينة الصناعية البيئية ومجمع الحرفيين
+Extreme-altitude, panoramic aerial masterplan photograph of an upgraded, next-generation global smart eco-industrial city (SN-GRID-20) in the Sana'a basin, Yemen, featuring an advanced linear eco-hydrology design. 
+
+Captured from a massive altitude in sharp early morning light, the masterplan reveals an optimized, modular industrial grid bisected by a continuous, engineered linear bio-canal spine and cascading stone-lined retention terraces instead of a single central lake. This narrow, high-efficiency water artery features native aquatic filtration reeds, solar-powered aeration fountains, and flanking shaded pedestrian boardwalks, acting as both a natural evaporative cooling axis and a controlled stormwater diversion channel. 
+
+The industrial zones on both sides showcase high-tech European-Yemeni architecture: sleek anthracite steel and electrochromic glass warehouses, modular timber panels, and rugged basalt stone podiums decorated with white gypsum geometric motifs. Roofs are densely covered with dark bifacial solar panel grids and living sedum green patches. 
+
+Dedicated intermodal logistics lanes, autonomous electric truck (AGV) corridors with green transit lighting, and electrified freight rail spurs run parallel to the linear spine, creating seamless freight movement without central spatial bottlenecks. The arid, terraced mountain basin of Sana'a, ancient watchtowers, and ridge-mounted wind turbines frame the high-tech complex under crisp morning sunlight and soft atmospheric mist. 
+
+Crisp architectural blueprint telemetry overlays, vector grid coordinates, scale axes, and bilingual labels ('SN-GRID-20' and 'SANA'A ADVANCED LINEAR ECO-INDUSTRIAL PARK' / 'مدينة الأمل الصناعية والبيئية المتطورة - صنعاء') line the border margins. Photorealistic, Hasselblad aerial photography, 8k resolution. --ar 16:9
+
+<p align="center">
+  <img src="./sn20.jpeg" alt="sn20" width="1200">
+</p>
 
 
 
