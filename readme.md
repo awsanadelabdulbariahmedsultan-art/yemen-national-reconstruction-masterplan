@@ -205,8 +205,8 @@ Ultra-detailed masterplan and architectural elevation of an iconic futuristic su
 
 
 <p align="center">
-  <img src="./الأبراج والمدن السكنية المستدامة1.jpeg" alt="الأبراج والمدن السكنية المستدامة1  - View 1" width="49%">
-  <img src="./الأبراج والمدن السكنية المستدامة2.jpeg" alt="الأبراج والمدن السكنية المستدامة2  - View 2" width="49%">
+  <img src="./SN1#.jpeg" alt="SN1#  - View 1" width="49%">
+  <img src="./SN1.jpeg" alt="SN1  - View 2" width="49%">
 </p>
 
 ---
